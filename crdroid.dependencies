@@ -1,18 +1,21 @@
 [
   {
     "remote":      "github",
-    "repository":  "android_kernel_oneplus_onyx",
+    "repository":  "rohitporoli/android_kernel_oneplus_onyx",
     "target_path": "kernel/oneplus/onyx"
   },
   {
+    "remote":       "ashwinr64",
     "repository": "android_device_oppo_common",
     "target_path": "device/oppo/common"
   },
   {
+    "remote":       "CyanogenMod",
     "repository": "android_external_sony_boringssl-compat",
     "target_path": "external/sony/boringssl-compat"
   },
   {
+    "remote":       "CyanogenMod",
     "repository": "android_external_stlport",
     "target_path": "external/stlport"
   }
