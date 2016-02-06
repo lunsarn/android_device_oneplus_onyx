@@ -51,6 +51,8 @@ TARGET_KERNEL_ARCH := arm
 TARGET_KERNEL_CONFIG := cm_onyx_defconfig
 TARGET_KERNEL_SOURCE := kernel/oneplus/onyx
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := arm-linux-androideabi-
+TARGET_TC_ROM := 4.9-linaro
+TARGET_TC_KERNEL := 4.9-linaro
 
 # ANT+
 BOARD_ANT_WIRELESS_DEVICE := "vfs-prerelease"
